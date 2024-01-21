@@ -1,5 +1,5 @@
 div{
-    text-align: left;
+    text-align: center;
 }
 
 
@@ -8,5 +8,5 @@ div{
     background-color:bisque;
     color: red;
     font-family: "Georgia", "Times New Roman";
-    text-align: center;
+    text-align: left;
 }
